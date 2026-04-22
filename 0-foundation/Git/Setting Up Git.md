@@ -1,6 +1,5 @@
 # Setting Up Git
 
-> Related: [[Command line basics]]
 
 ## Git vs GitHub
 - **Git** = version control system (local)

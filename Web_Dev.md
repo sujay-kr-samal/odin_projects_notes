@@ -17,3 +17,5 @@
 
 ### HTML & CSS
 - [[Introduction to HTML, CSS & JavaScript]]
+- [[Elements and Tags]]
+- [[HTML Boilerplate]]

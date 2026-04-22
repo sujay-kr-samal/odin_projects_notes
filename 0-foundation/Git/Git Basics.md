@@ -1,7 +1,5 @@
 # Git Basics
 
-> Related: [[Introduction to Git]] | [[Setting Up Git]]
-
 ## Basic Git Workflow
 
 ### Step 1 — Clone repo

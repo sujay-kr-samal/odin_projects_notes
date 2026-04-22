@@ -1,7 +1,5 @@
 # Browsing the Web
 
-> Related: [[How the internet works]]
-
 ## Key Terms
 
 ### Web Page

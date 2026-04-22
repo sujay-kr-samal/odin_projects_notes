@@ -1,4 +1,6 @@
 # How the Internet Works
+
+>Related : [[Browsing the Web]], [[What is a Domain Name]]
 ## Internet
 
 - 2 computers + ethernet cable = network

@@ -1,7 +1,5 @@
 # What is a Domain Name?
 
-> Related: [[How the internet works]] | [[Browsing the Web]]
-
 ## Summary
 - Har computer ka ek IP address hota hai (e.g. `192.0.2.172`)
 - IP addresses yaad karna mushkil hai → isliye **Domain Names** hote hain
