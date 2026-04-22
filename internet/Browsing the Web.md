@@ -1,6 +1,6 @@
 # Browsing the Web
 
-> Related: [[How the internet works.]]
+> Related: [[How the internet works]]
 
 ## Key Terms
 
@@ -16,7 +16,7 @@
 
 ### Web Server
 - Ek computer jo websites **host** karta hai
-- Browser request karta hai → web server response deta hai
+- Browser request karta hai = web server response deta hai
 - Ek web server **multiple websites** host kar sakta hai
 
 ### Web Service
@@ -59,16 +59,16 @@
 
 ## Searching Effectively
 
-- **MDN** → web technology ke liye
-- **Stack Overflow** → specific coding problems ke liye
+- **MDN** = web technology ke liye
+- **Stack Overflow** = specific coding problems ke liye
 - Language ka naam search mein zaroor dalo
     - `fibonacci sequence JavaScript`
 
 ### Advanced Search Tips
-- `"exact phrase"` → exact match ke liye
-- `term -exclude` → kuch exclude karne ke liye
-- `term1 OR term2` → koi ek term
-- `intitle:term` → page title mein term  
+- `"exact phrase"` = exact match ke liye
+- `term -exclude` = kuch exclude karne ke liye
+- `term1 OR term2` = koi ek term
+- `intitle:term` = page title mein term  
 
 ---
 
