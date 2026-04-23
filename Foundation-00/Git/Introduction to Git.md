@@ -1,6 +1,6 @@
 # Introduction to Git
 
-> Related: [[Setting Up Git]], [[Git Basics]]
+> Related: [[Setting Up Git]], [[Git Basics]], [[Commit Messages]]
 
 ## What is Git?
 - Git = **version control system** (epic save button! 💾)

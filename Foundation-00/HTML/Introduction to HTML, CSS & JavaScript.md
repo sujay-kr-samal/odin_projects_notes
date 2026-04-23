@@ -1,6 +1,6 @@
 # Introduction to HTML, CSS & JavaScript
 
-> Related : [[HTML Boilerplate]], [[Elements and Tags]]
+> Related : [[HTML Boilerplate]], [[Elements and Tags]], [[Working with Text]], [[Lists]], [[Links and Images]], [[Intro to CSS]]
 
 ## What is HTML?
 - HTML = **HyperText Markup Language**

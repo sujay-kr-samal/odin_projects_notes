@@ -14,8 +14,16 @@
 - [[Introduction to Git]]
 - [[Setting Up Git]]
 - [[Git Basics]]
+- [[Commit Messages]]
 
-### HTML & CSS
+### HTML 
 - [[Introduction to HTML, CSS & JavaScript]]
 - [[Elements and Tags]]
 - [[HTML Boilerplate]]
+- [[Working with Text]]
+- [[Lists]]
+- [[Links and Images]]
+
+### CSS
+- [[Intro to CSS]]
+-  
