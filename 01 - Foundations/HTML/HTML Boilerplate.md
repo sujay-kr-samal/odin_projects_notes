@@ -1,5 +1,7 @@
 # HTML Boilerplate
 
+> Related : [[Links and Images]], [[Lists]], [[Working with Text]], [[Elements and Tags]]
+
 ## Basic Boilerplate Structure
 ```html
 <!DOCTYPE html>
